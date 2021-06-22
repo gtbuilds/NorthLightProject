@@ -56,3 +56,6 @@ There are some basic requirements for this system.
 6. It allows users to easily enter keywords, and pull out a few recipes of best practices for solving a real-world issue.
 7. It has a survey or poll system, for people to give feedback on implementing or using a best practice in their society, the problems they solve, the outcomes they achieve, and the improvements that need to be made.
 8. The system can consolidate feedback and provide granular variations and recipes for users to customize the best practices to address the specific issues in their society.
+
+Technology used including:
+W3, Dapp, blockchain, solidity, javascript, html, css and more.
