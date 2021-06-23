@@ -8,12 +8,14 @@ It is estimated that computation power will surpass human brainpower in 2023, wh
 
 This affects many aspect of our lives. Some of the drawbacks we are experiencing at right now include the prevalence of fake news, data fatigue, distrust in news reports and statistic data, and an overwhelmingly common attitude of indifference. The words we often use to describe people are:
 
-Aloof
-Impassive
-Insensitive
-Lukewarm
-Unsympathetic
-Apathetic
+* Aloof
+* Impassive
+* Insensitive
+* Lukewarm
+* Unsympathetic
+* Apathetic
+
+![images/ComputerPower.jpg]
 
 Imagine in your mind that a person’s brainpower, their ability to absorb outside information, is like a piece of white paper, and each data point they receive from the outside is like a little black dot dropped on this piece of white paper. Starting from ancient times, as we had more and more exposure to data, there were more and more black dots dropped onto this white paper. At some point of time, there will be so many black dots that they completely cover the white paper, and the white paper now turns black. That will be the time when computation power surpasses the brainpower of human beings. 
 
