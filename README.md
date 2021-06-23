@@ -15,7 +15,7 @@ This affects many aspect of our lives. Some of the drawbacks we are experiencing
 * Unsympathetic
 * Apathetic
 
-![images/ComputerPower.jpg]
+![ComputingPower](ComputingPower.jpg)
 
 Imagine in your mind that a person’s brainpower, their ability to absorb outside information, is like a piece of white paper, and each data point they receive from the outside is like a little black dot dropped on this piece of white paper. Starting from ancient times, as we had more and more exposure to data, there were more and more black dots dropped onto this white paper. At some point of time, there will be so many black dots that they completely cover the white paper, and the white paper now turns black. That will be the time when computation power surpasses the brainpower of human beings. 
 
