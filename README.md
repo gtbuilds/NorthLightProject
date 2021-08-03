@@ -61,3 +61,8 @@ There are some basic requirements for this system.
 
 Technology used including:
 W3, Dapp, blockchain, solidity, javascript, html, css and more.
+
+Donations are welcome! Without sufficient funding, it is impossible to build this project.
+ETH address: 0x30b173AA09Db69bE9e4b919Fa2678c798Aa1020d
+
+Development and other types of contributions are welcome! This project is built for all the people in this world, and it should be built by all the people in this world.
