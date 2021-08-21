@@ -63,6 +63,6 @@ Technology used including:
 W3, Dapp, blockchain, solidity, javascript, html, css and more.
 
 Donations are welcome! Without sufficient funding, it is impossible to build this project.
-ETH address: 0x30b173AA09Db69bE9e4b919Fa2678c798Aa1020d
+ETH and BEP20 address: 0xE53c71752A042B18bF72a35480565c9A23F4aa2C
 
 Development and other types of contributions are welcome! This project is built for all the people in this world, and it should be built by all the people in this world.
